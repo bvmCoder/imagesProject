@@ -3,13 +3,16 @@ background-image: url("../images/imageOne") ;
 }*/
 
 #imageDisplay {
-    border: 3px solid black;
+    border: 3px solid #292929;
     height: 500px;
     width: 500px;
     margin: 0 auto;
     margin-top: 20px;
     background: #E4E4E4;
+    border-radius: 10px;
 }
+
+
 .image {
     width: 210px;
     //float: left;
