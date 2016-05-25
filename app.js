@@ -26,6 +26,8 @@
     var imgArray = _class(".image");
     //console.log(imgArray);
 })();
+
+// we need to solve the same project using the pure javaScript
 */
 
 (function() {
